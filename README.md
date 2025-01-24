@@ -1,5 +1,8 @@
 # Quotient geometry for correlation matrices
-In this repository, I present python codes used for the following paper. **Hengchao Chen. Quotient geometry of bounded or fixed rank correlation matrices. Under review at SIAM Journal on Matrix Analysis and Applications. ArXiv:2401.03126.**
+
+This repo contains the code for the quotient geometry of bounded-or-fixed-rank correlation matrices. 
+ 
+**Hengchao Chen (2025). Quotient geometry of bounded or fixed rank correlation matrices. SIAM Journal on Matrix Analysis and Applications. DOI: https://doi.org/10.1137/24M1630566**
 
 ### Main Files
 
