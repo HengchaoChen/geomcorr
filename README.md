@@ -7,7 +7,8 @@ This repo contains the code for the paper *Chen, H. (2025). Quotient Geometry of
 - geomcorr.py contains the basic functions related to the quotient geometry of correlation matrices.
 - correlation.ipynb contains the experimental results
 
-Citation:
+### Citation
+
 ```
 @article{chen2025quotient,
   title={Quotient Geometry of Bounded or Fixed-Rank Correlation Matrices},
